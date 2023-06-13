@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <descript>
+            <abstract>The features in this layer represent the five-digit ZIP Code areas that are used by the U.S. Postal Service to deliver mail more effectively.  This layer provides ZIP Code, postal district name, population, and area for the ZIP Code areas in California.</abstract>
+            <purpose>Five digit ZIP code areas used by the U.S. Postal Service in the state of California.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>ZIP code</themekey>
+                <themekey>postal</themekey>
+                <themekey>reference</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>Sources: Esri, TomTom North America, Inc., United States Postal Service</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
